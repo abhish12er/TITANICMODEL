@@ -133,4 +133,4 @@ MIT License. Free to use, modify, and share.
 - Titanic dataset from Github  
 - scikit-learn  
 - Flask  
-- Postman](https://github.com/benojamesroy/TitanicMLModel)
+
